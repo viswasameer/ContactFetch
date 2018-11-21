@@ -1,0 +1,4 @@
+#Wed Nov 21 19:11:25 IST 2018
+base.0=D\:\\WrkSamp\\ContactRead\\PhoneContact_Demo1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
